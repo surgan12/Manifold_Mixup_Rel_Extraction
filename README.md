@@ -15,11 +15,3 @@ pip install --user transformers
 ```
 
 * see scripts.sh for training and evaluation
-
-Contributors:
-
-Jatin Chauhan 
-Puneet Mangla
-Yash Khasbage
-Surgan Jandial
-Shraiysh Vaishay
